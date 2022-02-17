@@ -1,7 +1,7 @@
 
 
 <h1>Simple Devops project!!!!!</h1>
-<h1>Deploying on Tomcat server with the help of Ansible</h1>
-<h1>Using Jenkins pipeline... </h1>
+<h1>Deploying on Tomcat server using Ansible-playbook</h1>
+<h1>CI/CD Jenkins pipeline has been successfully executed... </h1>
 
 
